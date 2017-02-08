@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+  color: #0000e6;
+}
+p {
+  font-style: normal;
+}
+body {
+  background-color:#ff9900;
+  text-align: center;
+}
+ul { list-style-type: none; text-align: center;
+}
